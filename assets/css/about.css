@@ -1,0 +1,13 @@
+p {
+	padding-top: 30px;
+	font-weight: 400;
+}
+
+img {
+	height: auto;
+	display: block;
+}
+
+p, img {
+	width: 100%;
+}
