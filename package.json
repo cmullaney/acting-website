@@ -1,0 +1,23 @@
+{
+  "name": "actingwebsite",
+  "version": "1.0.0",
+  "description": "Connor Mullaney's Acting Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmullaney/acting-website.git"
+  },
+  "author": "Connor Mullaney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmullaney/acting-website/issues"
+  },
+  "homepage": "https://github.com/cmullaney/acting-website#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
